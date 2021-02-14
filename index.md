@@ -22,4 +22,12 @@ FF外からのDM許可しております。何かあればDMもしくはJARLメ�
 - [2021関東UHF](/posts/2021KantoUHF.md/)
 - [2020FD](/posts/2020FD.md)
 
-----
+----  
+  
+<script src="https://utteranc.es/client.js"
+        repo="JJ1BBY/JJ1BBY.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
