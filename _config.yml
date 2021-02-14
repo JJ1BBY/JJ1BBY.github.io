@@ -7,7 +7,7 @@ show_downloads: false
 gems:
  - jekyll-seo-tag
  - jemoji
- 
+google_analytics: G-VW4856D4WE
 twitter:
   username: JJ1BBY
   card: summary
