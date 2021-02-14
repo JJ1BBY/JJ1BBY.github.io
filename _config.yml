@@ -6,3 +6,12 @@ image: /logo.png
 show_downloads: false
 gems:
   - jekyll-seo-tag
+
+twitter:
+  username: JJ1BBY
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /logo.jpg
