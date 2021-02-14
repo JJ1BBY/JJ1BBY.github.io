@@ -25,6 +25,9 @@ IC-9700も担ぎ上げ、バッテリーも大きなリチウムイオンを予�
 JCC/JCGの自治体所在地(なので大まかな位置で、移動場所等ではないです)でプロットしたものです。オレンジが私のFM/SSB、青が1200 CWで健闘されたJK1WSH局にデータをご提供いただいたマルチです。PhoneとCWで別れました、移動地はかなり離れていますので参考になります。私とも電話で交信のあった局は30局11.1%、CWだけが58局でした。MIXにすれば、さらに50局の獲得も可能かもしれません。  
 ![image](https://user-images.githubusercontent.com/79028771/107869678-f3100400-6ed3-11eb-819c-f5af5648bc03.png)  
 
+---
+updated on 2021-2-14 17:43  
+   
 <script src="https://utteranc.es/client.js"
         repo="JJ1BBY/JJ1BBY.github.io"
         issue-term="pathname"
@@ -33,7 +36,5 @@ JCC/JCGの自治体所在地(なので大まかな位置で、移動場所等で
         async>
 </script>
 
----
-updated on 2021-2-14 17:43  
 
 
