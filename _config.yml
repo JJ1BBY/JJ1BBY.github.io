@@ -1,6 +1,6 @@
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: JJ1BBY blog
 description: a Ham contester's blog
 logo: /logo.png
