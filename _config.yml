@@ -2,8 +2,6 @@ theme: jekyll-theme-minimal
 title: JJ1BBY blog
 description: a Ham contester's blog
 logo: /logo.png
-#https://user-images.githubusercontent.com/79028771/107864923-ce506800-6ea4-11eb-95bb-cf8bd3e3465a.jpg
-#![dNbD5fWQ_400x400](https://user-images.githubusercontent.com/79028771/107864923-ce506800-6ea4-11eb-95bb-cf8bd3e3465a.jpg)
 image: /logo.png
 show_downloads: false
 gems:
