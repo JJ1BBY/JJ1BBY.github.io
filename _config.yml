@@ -10,6 +10,7 @@ gems:
  
 twitter:
   username: JJ1BBY
+  card: summary
 defaults:
   - scope:
       path: ""
