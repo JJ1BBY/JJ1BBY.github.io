@@ -7,6 +7,7 @@ show_downloads: false
 gems:
  - jekyll-seo-tag
  - jemoji
+ - jekyll-sitemap
 google_analytics: UA-189717722-1
 twitter:
   username: JJ1BBY
