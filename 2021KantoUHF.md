@@ -1,6 +1,3 @@
----
-
----
 ## 2021関東UHFに参加しました。
 ![image](https://user-images.githubusercontent.com/79028771/107869654-c2c86580-6ed3-11eb-8df5-c1fc0ef32b3a.png)
 
