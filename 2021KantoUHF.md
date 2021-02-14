@@ -2,7 +2,9 @@
 layout: post
 title: "2021関東UHFに参加しました。"
 date: 2021-02-14 16:28
+categories: [Ham, Contest]
 ---
+
 ![image](https://user-images.githubusercontent.com/79028771/107869654-c2c86580-6ed3-11eb-8df5-c1fc0ef32b3a.png)
 
 2021/2/11 9-15時の第38回関東UHFコンテスト、B1200部門に参加しました。  
