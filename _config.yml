@@ -10,6 +10,7 @@ gems:
  - jekyll-seo-tag
  - jemoji
  - jekyll-sitemap
+ - minimal-mistakes-jekyll
 google_analytics: UA-189717722-1
 twitter:
   username: JJ1BBY
