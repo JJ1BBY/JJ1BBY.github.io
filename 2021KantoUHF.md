@@ -2,6 +2,7 @@
 layout: post
 title: "2021関東UHFに参加しました。"
 date: 2021-02-14 16:28
+categories: [Contest]
 author: JJ1BBY
 ---
 
