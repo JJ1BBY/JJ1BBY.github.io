@@ -5,8 +5,9 @@ logo: ![dNbD5fWQ_400x400](https://user-images.githubusercontent.com/79028771/107
 image: /logo.png
 show_downloads: false
 gems:
-  - jekyll-seo-tag
-
+ - jekyll-seo-tag
+ - jemoji
+ 
 twitter:
   username: JJ1BBY
 defaults:
@@ -14,4 +15,4 @@ defaults:
       path: ""
     values:
       image:
-        path: /logo.jpg
+        path: /logo.png
