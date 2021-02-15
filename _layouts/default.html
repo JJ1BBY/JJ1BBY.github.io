@@ -38,12 +38,12 @@
         {% endif %}
 <h3><a href="{{ "/allposts.html" }}">投稿一覧</a></h3>      
   {% for category in site.categories %} 
-        <br>
+   <ul>
   <h3>{{ category[0] }}</h3>
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-        <br>
+ </ul>
 {% endfor %}   
         
 <!-- 
