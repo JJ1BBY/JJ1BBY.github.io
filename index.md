@@ -17,10 +17,10 @@ FF外からのDM許可しております。何かあればDMもしくはJARLメ�
 
 
 ----
-## 投稿一覧
+## [投稿一覧](/allposts.md/)
 
 - [2021関東UHF](/posts/2021KantoUHF.md/)
-- [2020FD](/posts/2020FD.md)
+- [2020FD](/posts/2020FD.md/)
 
 ----  
   
