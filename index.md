@@ -19,8 +19,8 @@ FF外からのDM許可しております。何かあればDMもしくはJARLメ�
 ----
 ## [投稿一覧](/allposts.md/)
 
-- [2021関東UHF](/posts/2021KantoUHF.md/)
-- [2020FD](/posts/2020FD.md/)
+- [2021関東UHF](/_posts/2021-02-14-2021-Kanto-UHF.md/)
+- [2020FD](/_posts/2021-02-14-2020FD.md/)
 
 ----  
   
