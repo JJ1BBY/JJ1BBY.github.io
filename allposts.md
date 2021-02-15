@@ -6,7 +6,7 @@
   {% endfor %}
 </ul>
 
-{% for categories in site.categories %}
+{% for categorie in site.categories %}
   <h3>{{ categories[0] }}</h3>
   <ul>
     {% for post in categories[1] %}
