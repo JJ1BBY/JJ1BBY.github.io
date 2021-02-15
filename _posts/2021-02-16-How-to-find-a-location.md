@@ -12,7 +12,7 @@ author: JJ1BBY
 特に430MHz以上や、私が主戦場にしている1200MHzでは、8割移動運用地の確保できまるといっても過言ではありません。  
 
 それではTwitterでのアンケート（コンテスト常連の各局、コンテストで他局を参考にしたい所は？）を見てみましょう。投稿現在ではまだ集計中ですが、「移動地やロケ、その選定方法」がダントツでトップです。  
-![https://twitter.com/jj1bby/status/1361296582138761216?s=21](https://user-images.githubusercontent.com/79028771/107995031-3a57db00-7021-11eb-9931-0b36942e2bfc.png)
+![https://twitter.com/jj1bby/status/1361296582138761216?s=21](https://user-images.githubusercontent.com/79028771/108000807-26ff3c80-702e-11eb-9cc1-60c62bbaf8f6.png))
 
 1. 移動地候補の探し方
 2. 移動運用地の特定
