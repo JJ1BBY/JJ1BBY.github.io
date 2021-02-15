@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://JJ1BBY.github.io/sitemap.xml
