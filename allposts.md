@@ -1,4 +1,4 @@
-<!--
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -6,8 +6,8 @@
     </li>
   {% endfor %}
 </ul>
--->
-{% for categorie in site.categories %}
+
+{% for category in site.categories %}
   <h3>{{ categories[0] }}</h3>
   <ul>
     {% for post in categories[1] %}
