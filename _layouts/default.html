@@ -40,13 +40,11 @@
 
       <h3><a href="{{ "/allposts.html" }}">投稿一覧</a></h3>
         
-<ul>
   {% for post in site.posts %}
     <a>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </a>
   {% endfor %}
-</ul>
 <!--
      <h3><p><a href=" "コンテスト</a></p></h3>
             <h4><p><a href="{{ /posts/2021KantoUHF.md }}"2021関東UHF</a></p></h4>
