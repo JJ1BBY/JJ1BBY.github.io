@@ -1,4 +1,3 @@
-#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 theme: jekyll-theme-minimal
 title: JJ1BBY blog
@@ -10,7 +9,6 @@ gems:
  - jekyll-seo-tag
  - jemoji
  - jekyll-sitemap
- - minimal-mistakes-jekyll
 google_analytics: UA-189717722-1
 twitter:
   username: JJ1BBY
