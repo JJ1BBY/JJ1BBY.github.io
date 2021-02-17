@@ -7,7 +7,7 @@ author: JJ1BBY
 ---
 ## TL;DR
 * X1200部門が存在するのはJARLの[4大コンテスト](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm)の内3つ、6D, FD, ACAG  
-* [Score Database](http://contest.jarl.org/cntdb/)で、出場記録を2012年以降は検索可能  
+* [Score Database](http://contest.jarl.org/cntdb/)で、2012年以降の出場記録は検索可能  
 * 2012年以降、同年中の３大会全てで１位を取った局は通算３局、4回    
 * 関東ではまだグランドスラム達成局はいない
 * 関東 X1200 グランドスラムを今年の目標にします!  
