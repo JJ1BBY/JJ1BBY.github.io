@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "パイルアップ時のオペレーション"
+title: "パイルアップ時のオペレーション考（1200MHz FM・電話）"
 date: 2021-02-17 8:00
 categories: [Tips]
 author: JJ1BBY
