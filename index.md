@@ -42,3 +42,4 @@ FF外からのDM許可しております。何かあればDMもしくはJARLメ�
         crossorigin="anonymous"
         async>
 </script>
+<a href="{{ "/Privacy-Policy.html" }}"プライバシー ポリシー</a>
