@@ -26,7 +26,7 @@ author: JJ1BBY
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">コンテスト</th>
+      <th style="text-align: left">コンテスト   </th>
       <th style="text-align: left">時間</th>
       <th style="text-align: left">総QSO数</th>
       <th style="text-align: left">総QSO順位</th>
