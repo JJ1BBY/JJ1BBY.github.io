@@ -54,8 +54,8 @@ author: JJ1BBY
     <tr>
       <td style="text-align: left">FD</td>
       <td style="text-align: left">18</td>
-      <td style="text-align: left">214</td>
-      <td style="text-align: left">2</td>
+      <td style="text-align: left">213</td>
+      <td style="text-align: left">3</td>
       <td style="text-align: left">12</td>
       <td style="text-align: left">5</td>
     </tr>
