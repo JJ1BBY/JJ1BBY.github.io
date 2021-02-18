@@ -42,4 +42,4 @@ FF外からのDM許可しております。何かあればDMもしくはJARLメ�
         crossorigin="anonymous"
         async>
 </script>
-[プライバシーポリシー](/Privacy-Policy.md/)
+
