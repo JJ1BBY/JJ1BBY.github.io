@@ -6,7 +6,7 @@ categories: [Contest]
 author: JJ1BBY
 ---
 ## TL;DR
-* 1200MHzがあるJARL[3大コンテスト](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm)6D, FD, ACAGより、1200MHz活況なのは実はロカコン  
+* 関東において、1200MHzがあるJARL[3大コンテスト](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm) 6D, FD, ACAGより、1200MHz活況なのは実はロカコン  
 * ほぼ歴代レコードもしくはランク入りの優勝QSO数でのデータ
 * QSO数では関東UHF>東京UHF>FD>ACAG>オール埼玉>オール神奈川
 * 開催時間当たりQSOでは関東UHF>オール神奈川>東京UHF>オール埼玉>FD>ACAGとロカコンが上位
