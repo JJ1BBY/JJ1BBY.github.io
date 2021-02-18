@@ -19,7 +19,7 @@ author: JJ1BBY
 ※ ACAGと関東UHFの発表は投稿現在まだです。残念ながらACAGは1992年代の活況まではもどっておらず、近年のベストにとどまります。  
 
 ## 1200MHz部門QSO数比較
-<h6 id="header-6">Header 6</h6>
+<h6 id="header-6">1200MHz部門QSO数比較</h6>
 <table>
   <thead>
     <tr>
