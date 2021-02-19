@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "移動用装備"
-date: 2021-02-19 18:00
+title: "移動運用装備 - 軽登山"
+date: 2021-02-19 9:00
 categories: [Contest]
 author: JJ1BBY
 ---
