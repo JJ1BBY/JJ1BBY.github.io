@@ -64,8 +64,12 @@
         
         
         
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-via="JJ1BBY" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-   
+<div class="twitter">
+　<a href="//twitter.com/share" class="twitter-share-button" data-text="{{ post.title }}" data-url="{{ post.url }}" data-lang="ja<!-- 日本語の場合 -->">
+ Tweet
+ </a>
+</div>
+        
       </section>
       <footer>
         {% if site.github.is_project_page %}
@@ -88,5 +92,7 @@
     </script>
     {% endif %}
  <script data-ad-client="ca-pub-2710028731435532" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
   </body>
 </html>
