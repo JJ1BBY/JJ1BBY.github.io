@@ -5,6 +5,7 @@ description: a Ham contester's blog
 logo: /logo.png
 image: /logo.png
 show_downloads: false
+encoding: UTF-8
 gems:
  - jekyll-seo-tag
  - jemoji
