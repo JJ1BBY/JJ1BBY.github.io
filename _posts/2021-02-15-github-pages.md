@@ -2,7 +2,7 @@
 layout: post
 title: "github pagesでblogを開始"
 date: 2021-02-15 18:00
-categories: [Others]
+categories: [Tips]
 author: JJ1BBY
 ---
 ![image](https://user-images.githubusercontent.com/79028771/107925172-6b032a80-6fb7-11eb-83f8-ed07ae60e709.png)
