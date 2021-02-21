@@ -87,7 +87,7 @@ author: JJ1BBY
 こちらのクッカーも大変おすすめです。  
 
 
-## ランチとホムセンででお買い物
+## ランチホムセンでお買い物
 ![IMG_0021](https://user-images.githubusercontent.com/79028771/108616465-d5e9b100-7450-11eb-8ced-9f4d0d9a76fe.jpg)
 和光でランチ。トンカツ旨い！  
 
