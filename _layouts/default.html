@@ -39,7 +39,7 @@
 <h3><a href="{{ "https://twitter.com/JJ1BBY" }}">@JJ1BBY</a></h3>             
         <h3><a href="{{ "/allposts.html" }}">投稿一覧</a></h3>      
         <h3><a href="">最近の投稿</a></h3>      
-        {% for post in site.posts limit %}
+        {% for post in site.posts limit:10 %}
            <a href="{{ post.url }}">{{ post.title }}</a><br>
         {% endif %}
  
