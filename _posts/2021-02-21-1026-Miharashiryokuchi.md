@@ -2,7 +2,7 @@
 layout: post
 title: "1200MHz移動運用 - 1026 稲城市みはらし緑地"
 date: 2021-02-21 15:00
-categories: [移動運用]]
+categories: [移動運用]
 author: JJ1BBY
 ---
 ![稲城市みはらし緑地](https://user-images.githubusercontent.com/79028771/108616459-d08c6680-7450-11eb-97d7-a49ca5236c88.jpg)
