@@ -66,7 +66,7 @@ author: JJ1BBY
 * 昭島移動局 ([TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html) 56 / [TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)59)、北区(同53/59)のような塩梅。  
 
 ## DJ-G7はSが渋い
-結論としては、そうなります。また、ギリギリのところでる差はコンテストでは重要かも。  
+結論としては、そうなります。また、ギリギリのところででる差はコンテストでは重要かも。  
 
 一方で[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)のSがサービスしすぎカモ。  
 
