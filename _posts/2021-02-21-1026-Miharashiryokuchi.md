@@ -54,7 +54,7 @@ author: JJ1BBY
 ## 聞き比べ
 ![IMG_0012](https://user-images.githubusercontent.com/79028771/108616460-d1bd9380-7450-11eb-92b1-5d696b3775bb.jpg)
 [DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)と[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)を同軸で切り替える準備をして、ログをとる準備をしてバンド内をワッチしてみるが、何も聞こえてこない。まだ、10時前なので移動局も出ていないか?  
-1295.040でCQを出すも応答がない。メインで読んで、040に戻ると早速声がかかった。実は隣の町内の超ローカル局で10回ほども交信している局だ。ただ、面識はない。よく、川崎のセカンドシャックにいらっしゃるようで、今日も川崎からということであった。  
+1295.040でCQを出すも応答がない。メインで呼んで、040に戻ると早速声がかかった。実は隣の町内の超ローカル局で10回ほども交信している局だ。ただ、面識はない。よく、川崎のセカンドシャックにいらっしゃるようで、今日も川崎からということであった。  
 
 お時間あれば、ハンディ機の聞き比べといことでお願いをしてみると、快く応じていただいた。[DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)もお持ちとのこと。  
 ただ、近距離でどちらも59で比較できず。マイクも違うものなのだが、[DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)は固めの変調とのこと。自分で聞いていても同じような傾向で、[DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)はややキンキンする。[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)はやわらかい音になり。了解度が低くなれば、柔らかい音は聞きづらい。その反対では、聞きやすいと感じた。  
