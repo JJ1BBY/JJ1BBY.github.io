@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1200MHz移動運用 - 1026 稲城市みはらし緑地"
+title: "1026 稲城市みはらし緑地 - DJ-G7とTH-59比較"
 date: 2021-02-21 15:00
 categories: [Portable]
 author: JJ1BBY
