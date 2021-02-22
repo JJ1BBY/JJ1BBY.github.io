@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "移動運用地の目的"
+title: "移動運用の目的"
 date: 2021-02-23 8:00
 categories: [Portable]
 author: JJ1BBY
