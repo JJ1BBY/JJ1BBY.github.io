@@ -5,6 +5,7 @@ date: 2021-02-23 8:00
 categories: [Portable]
 author: JJ1BBY
 ---
+![nidoage](https://user-images.githubusercontent.com/79028771/108780096-460c4a00-75ab-11eb-9fd5-59e6235ffbaf.JPG)
 ## TL;DR
 * 金銭上の利益のためでなく、もっぱら個人的に無線技術に興味を持ち、正当に許可された者が行う自己訓練、通信及び技術的研究の業務 -『無線通信規則 （第1条第78項）』
 * アマチュア無線の楽しみの一つ、移動運用。その目的は人様々。  
