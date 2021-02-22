@@ -15,8 +15,8 @@ author: JJ1BBY
 
 Twitterで[アンケート](https://twitter.com/JJ1BBY/status/1363601919579545605)をとってみました。「交信数・局・地を伸ばす、サービス提供」が僅差でトップになりました。  
 
+![アンケート](https://user-images.githubusercontent.com/79028771/108779827-d7c78780-75aa-11eb-9998-9bef85d4aef5.jpg)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コンテスト以外での移動運用の主たる目的は何ですか？<br>その他あれば、ぜひコメントください。散歩や登山のついで、クラブ行事とかはありそう。<br>※居住場所から離れて運用するケースです。</p>&mdash; ㍃ JJ1BBY ㌐ 5.6G📡納期１か月＿|￣|○ (@JJ1BBY) <a href="https://twitter.com/JJ1BBY/status/1363601919579545605?ref_src=twsrc%5Etfw">February 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 前提としたのは、1) 引っ越しなどで常置場所が変更になってのポータブルではなく、あくまで移動運用、あるいは無線用のセカンドシャックでの運用を想定。 2) 勝負になるコンテスト時の移動を除くこととしました。  
 
