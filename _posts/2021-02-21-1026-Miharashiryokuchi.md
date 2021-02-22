@@ -12,7 +12,7 @@ author: JJ1BBY
 * [DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)と[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)の聞き比べ  
 * [SOTO ウインドマスター SOD-310](http://www.shinfuji.co.jp/soto/products/sod-310/)の試用  
 * やはり、[DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)のSは渋い。ただし、了解度もSに応じて悪いわけでもない。ギリギリの所では[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)で聞こえる局が聞こえないことあり
-* 出力比較を追記(2021-2-22)しました  
+* 送信出力比較を追記(2021-2-22)しました  
 
 今日、2021/2/21は東京の気温が21度まで上がる予報で、昨日に引き続き昇温し、5月並みの気温になるとのこと。  
 昨日も移動に行こうかと、IC-9700を車に積み込んだが、最後までNP-SMAPの短い同軸がみつからない。  
