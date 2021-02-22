@@ -109,7 +109,7 @@ author: JJ1BBY
 
 DJ-G7は20%以上でちゃってるので、良い子は12V位で運用してみよう!  
 
-<h6 id="header-6">1200MHz部門QSO数比較</h6>
+<h6 id="header-6">送信出力比較</h6>
 <table>
   <thead>
     <tr>
