@@ -11,7 +11,8 @@ author: JJ1BBY
 * 1200MHz 5Qのみ  
 * [DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)と[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)の聞き比べ  
 * [SOTO ウインドマスター SOD-310](http://www.shinfuji.co.jp/soto/products/sod-310/)の試用  
-* やはり、[DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)のSは渋い。ただし、了解度もSに応じて悪いわけでもない。ギリギリの所では[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)で聞こえる局が聞こえないことあり。
+* やはり、[DJ-G7](https://www.alinco.co.jp/product/electron/detail/id=4387)のSは渋い。ただし、了解度もSに応じて悪いわけでもない。ギリギリの所では[TH-59](https://www.kenwood.com/jp/products/amateur/handy/handy_th59_end.html)で聞こえる局が聞こえないことあり
+* 出力比較を追記(2021-2-22)しました  
 
 今日、2021/2/21は東京の気温が21度まで上がる予報で、昨日に引き続き昇温し、5月並みの気温になるとのこと。  
 昨日も移動に行こうかと、IC-9700を車に積み込んだが、最後までNP-SMAPの短い同軸がみつからない。  
@@ -99,6 +100,46 @@ author: JJ1BBY
 
 ![IMG_0001](https://user-images.githubusercontent.com/79028771/108616468-d8e4a180-7450-11eb-9730-35402d01b206.jpg)
 20年前は山だけだったのに、小洒落た駅前と町になっていますね。  
+
+
+## 追補 送信出力比較 (2021-2-22追記)
+![IMG_0040](https://user-images.githubusercontent.com/79028771/108648991-d0976f80-74ff-11eb-94b0-4e06df22a83a.jpg)
+聞こえ具合には関係ないですが、それぞれのハンディ機の送信出力も異なるので、電力計で計測してみました。
+比較したのは15V給電と内臓バッテリー(電池)です。 TH-59にはやや規格外ですが、リチウム電池を使っていて、電圧高めです。  
+
+DJ-G7は20%以上でちゃってるので、良い子は12V位で運用してみよう!  
+
+<h6 id="header-6">1200MHz部門QSO数比較</h6>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"></th>
+      <th style="text-align: left">内蔵電源</th>
+      <th style="text-align: left">外部電源15V</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">DJ-G7</td>
+      <td style="text-align: left">1W</td>
+      <td style="text-align: left">1.3W</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">TH-59</td>
+      <td style="text-align: left">0.8W</td>
+      <td style="text-align: left">1W</td>
+    </tr>
+  </tbody>
+</table>
+
+DJ-G7 内蔵電源
+![IMG_0037](https://user-images.githubusercontent.com/79028771/108648331-4e5a7b80-74fe-11eb-90b5-b1eeabc67a74.jpg)
+DJ-G7 外部電源
+![IMG_0036](https://user-images.githubusercontent.com/79028771/108648330-4c90b800-74fe-11eb-93f0-5747f6738464.jpg)
+TH-59 内蔵電源
+![IMG_0038](https://user-images.githubusercontent.com/79028771/108648332-4ef31200-74fe-11eb-9363-10be590379a5.jpg)
+TH-59 内蔵電源
+![IMG_0039](https://user-images.githubusercontent.com/79028771/108648338-50243f00-74fe-11eb-8667-e05531fcd9ef.jpg)
 
 
 ## 移動地情報
