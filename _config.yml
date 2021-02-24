@@ -7,10 +7,8 @@ image: /logo.png
 show_downloads: false
 encoding: UTF-8
 gems:
- - jekyll-seo-tag
  - jemoji
  - jekyll-sitemap
- description: <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 google_analytics: UA-189717722-1
 twitter:
   username: JJ1BBY
