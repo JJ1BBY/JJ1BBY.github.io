@@ -8,28 +8,30 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
  <link rel="shortcut icon" type="image/x-icon" href="favicon.png?">
  
-     {% seo %}
- 
+ <!--    {% seo %}  -->
+<meta property="og:title" content="{{ page.title }}" />
+
+<meta name="author" content="JJ1BBY" />
+ <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+  
  <!-- HTML Meta Tags -->
 <title>JJ1BBY blog</title>
 <meta name="description" content="a Ham contester’s blog">
-<meta property="og:image" content="https://jj1bby.github.io/logo.png" />
+<meta property="og:image" content="https://jj1bby.com/logo.png" />
  
 <!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://jj1bby.github.io/">
+<meta property="og:url" content="https://jj1bby.com/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="JJ1BBY blog">
 <meta property="og:description" content="a Ham contester’s blog">
-<meta property="og:image" content="https://jj1bby.github.io/logo.png" />
+<meta property="og:image" content="https://jj1bby.com/logo.png" />
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary">
-<meta property="twitter:domain" content="jj1bby.github.io">
-<meta property="twitter:url" content="https://jj1bby.github.io/">
-<meta name="twitter:title" content="JJ1BBY blog">
+<meta property="twitter:domain" content="jj1bby.com">
+<meta property="twitter:url" content="https://jj1bby.com/">
 <meta name="twitter:description" content="a Ham contester’s blog">
- <meta name="twitter:site" content="@JJ1BBY">
-<meta name="twitter:image" content="https://jj1bby.github.io/logo.png" />
+<meta name="twitter:site" content="@JJ1BBY">
+<meta name="twitter:image" content="https://jj1bby.com/logo.png" />
  
 <script data-ad-client="ca-pub-2710028731435532" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
  
