@@ -175,6 +175,43 @@ LCRと結果発表の情報を表にまとめました。ゆるーく、傾向�
       <td style="text-align: left">木</td>
       <td style="text-align: left">20</td> 
     </tr>
+            <tr>
+      <td style="text-align: left">2018</td>
+      <td style="text-align: left">ACAG</td>
+      <td style="text-align: left">1/7/2019</td>
+      <td style="text-align: left">月</td>
+      <td style="text-align: left">3/2/2019</td>
+      <td style="text-align: left">土</td>
+      <td style="text-align: left">54</td>
+    </tr>
+        <tr>
+      <td style="text-align: left">2018</td>
+      <td style="text-align: left">FD</td>
+      <td style="text-align: left">11/12/2018</td>
+      <td style="text-align: left">月</td>
+      <td style="text-align: left">11/27/2018</td>
+      <td style="text-align: left">火</td>
+      <td style="text-align: left">15</td>
+    </tr>
+        <tr>
+      <td style="text-align: left">2018</td>
+      <td style="text-align: left">6D</td>
+      <td style="text-align: left">10/18/2018</td>
+      <td style="text-align: left">木</td>
+      <td style="text-align: left">10/12/2018</td>
+      <td style="text-align: left">金</td>
+      <td style="text-align: left">-6</td>
+    </tr>
+        <tr>
+      <td style="text-align: left">2018</td>
+      <td style="text-align: left">ALLJA</td>
+      <td style="text-align: left">9/4/2018</td>
+      <td style="text-align: left">火</td>
+      <td style="text-align: left">9/4/2018</td>
+      <td style="text-align: left">火</td>
+      <td style="text-align: left">0</td>
+    </tr>
+
   </tbody>
 </table>
 ※結果発表日は記載日の前日の可能性もあります。2019年6DはLCRが後からきましたっけ?
