@@ -46,7 +46,7 @@ author: JJ1BBY
 コンテストは近年のレコードとなる交信数を稼ぐことができました。 
 
 それでは、受信したLCRの抜粋です。  
-![LCR2020ACAG](https://user-images.githubusercontent.com/79028771/109227200-4acb3b00-7803-11eb-95fe-eb5c4dca42e2.png)
+![LCR2020ACAG](https://user-images.githubusercontent.com/79028771/109227325-7ea66080-7803-11eb-909f-368d6c75a541.png)
   
 1200MHzは、わりとカジュアルな参加者や、あんまりコンテストやりたくないので、普通のCQ出してますという方もいらっしゃって、たまには普通のCQでコンテストナンバーなしの、交信なんかもコンテスト中に行われたりするような雰囲気です。ガチのMixのコンテスターはイラつくでしょうねー。  
 
