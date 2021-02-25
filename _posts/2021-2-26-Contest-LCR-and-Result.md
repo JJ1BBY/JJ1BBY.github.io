@@ -32,11 +32,13 @@ author: JJ1BBY
 ![image](https://user-images.githubusercontent.com/79028771/109223741-55cf9c80-77fe-11eb-9176-a2d0273fbf8d.png)  
 
 しかし、その後東偏するという[予想](http://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW820101003&id=202014&basin=wnp&lang=ja)になりましたので、車での半固定での参加を選択します。雨や強風に備えて、野外での運用は諦めました。  
+![Screenshot_20201008-192335](https://user-images.githubusercontent.com/79028771/109222962-53207780-77fd-11eb-8f63-bbef8876ee3b.png)
+
 
 いつもの奥武蔵グリーンラインの移動候補地へ続く林道分岐は、事前のロケハンでは通行可能。ただし、かなりの落石が未処理で、その前の台風の爪痕が残ったままでした。ところが、この日行ってみると、台風接近を予期してか、通行止めになっていました。  
 ![PXL_20201009_235211442](https://user-images.githubusercontent.com/79028771/109222954-50258700-77fd-11eb-92a8-bf8945ac384f.jpg)
 
-ここから急遽16県の第二候補に移動することになります。  
+ここから急遽16県の第二候補に転進移動することになります。  
 
 3時間ほどかかったでしょうか...。 
 実地検分はしていませんが、見通しは調べてありましたので、有望そうです。  
@@ -218,9 +220,7 @@ LCRと結果発表の情報を表にまとめました。ゆるーく、傾向�
 
 ---
 
-![Screenshot_20201008-192335](https://user-images.githubusercontent.com/79028771/109222962-53207780-77fd-11eb-8f63-bbef8876ee3b.png)
-
-  
+ 
 <script src="https://utteranc.es/client.js"
         repo="JJ1BBY/JJ1BBY.github.io"
         issue-term="pathname"
