@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "JARLコンテスト発表日予想"
+title: "2020ACAG振り返りとJARLコンテスト発表日予想"
 date: 2021-02-26 07:00
-description: JARL4大コンテストのLog Check Reportが送られてくると発表もあと少し。これまでのLCR到着日と結果発表日をまとめてみました。
+description: JARL4大コンテストのLog Check Reportが送られてくると発表もあと少し。2020ACAGを振り返りつつ、これまでのLCR到着日と結果発表日をまとめてみました。
 categories: [Contest]
 author: JJ1BBY
 ---
