@@ -3,6 +3,7 @@ layout: post
 title: "1026 稲城市みはらし緑地 - DJ-G7とTH-59比較"
 date: 2021-02-21 15:00
 categories: [Portable]
+description: 1200MHzのハンディ機 DJ-G7とTH-59を比較してみた。
 author: JJ1BBY
 ---
 ![稲城市みはらし緑地](https://user-images.githubusercontent.com/79028771/108616459-d08c6680-7450-11eb-97d7-a49ca5236c88.jpg)
