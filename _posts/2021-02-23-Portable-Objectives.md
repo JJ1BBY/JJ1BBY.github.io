@@ -3,6 +3,7 @@ layout: post
 title: "移動運用の目的"
 date: 2021-02-23 8:00
 categories: [Portable]
+description: そもそもなぜアマチュア無線家は移動運用にでかけるのか？
 author: JJ1BBY
 ---
 ![nidoage](https://user-images.githubusercontent.com/79028771/108780745-34777200-75ac-11eb-92f8-90286bb790a6.JPG)
