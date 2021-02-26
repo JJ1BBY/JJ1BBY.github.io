@@ -3,6 +3,7 @@ layout: post
 title: "パイルアップ時のオペレーション考（1200MHz FM・電話）"
 date: 2021-02-17 8:00
 categories: [Tips]
+description: パイルアップ時でも効率化だけに徹しない、礼儀もわきまえた、交信いただける局のことを考えた交信方法はあるものなのか？
 author: JJ1BBY
 ---
 ## TL;DR
