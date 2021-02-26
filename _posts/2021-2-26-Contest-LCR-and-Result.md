@@ -43,7 +43,7 @@ author: JJ1BBY
 3時間ほどかかったでしょうか...。 
 実地検分はしていませんが、見通しは調べてありましたので、有望そうです。  
 
-コンテストは近年のレコードとなる交信数を稼ぐことができました。 
+コンテストは[近年のレコード](http://contest.jarl.org/cntdb/?year=&callsign=&contest_code=ACAG&category_code=X1200&sort=score&direction=desc)となる交信数を稼ぐことができました。 
 
 それでは、受信したLCRの抜粋です。珍しくノーミスでした。  
 ![LCR2020ACAG](https://user-images.githubusercontent.com/79028771/109227325-7ea66080-7803-11eb-909f-368d6c75a541.png)
