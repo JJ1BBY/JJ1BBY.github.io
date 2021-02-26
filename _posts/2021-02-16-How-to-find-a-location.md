@@ -3,6 +3,7 @@ layout: post
 title: "移動運用地の見つけ方"
 date: 2021-02-16 8:00
 categories: [Tips]
+description: アマチュア無線での移動運用地の探し方と見通し地図作成の方法をまとめました。
 author: JJ1BBY
 ---
 ## TL;DR
