@@ -7,7 +7,7 @@ categories: [Contest]
 author: JJ1BBY
 ---
 ## TL;DR
-* JARL[4大コンテスト](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm) ALLJA, 6D, FD, ACAGのLog Check Reportから、発表までは平均17.3日  
+* JARL[4大コンテスト](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm) ALLJA, 6D, FD, ACAGのLog Check Reportから、発表までは平均16.4日  
 * 発表日は土曜が多め
 * 最近は一週間ほどで結果が出ている
 * これから逆算すると、2020 ACAGの発表日は3/6（土）もしくは3/8（月）?
@@ -152,9 +152,9 @@ LCRと結果発表の情報を表にまとめました。ゆるーく、傾向�
       <td style="text-align: left">ACAG</td>
       <td style="text-align: left">1/7/2019</td>
       <td style="text-align: left">月</td>
-      <td style="text-align: left">3/2/2019</td>
+      <td style="text-align: left">2/21/2019</td>
       <td style="text-align: left">土</td>
-      <td style="text-align: left">54</td>
+      <td style="text-align: left">8</td>
     </tr>
         <tr>
       <td style="text-align: left">2018</td>
