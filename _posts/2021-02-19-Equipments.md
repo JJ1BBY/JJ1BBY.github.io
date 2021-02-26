@@ -3,6 +3,7 @@ layout: post
 title: "移動運用装備 - 軽登山編"
 date: 2021-02-20 9:00
 categories: [Portable]
+description: 移動運用での装備の工夫。1200MHzでの場合。
 author: JJ1BBY
 ---
 ![移動運用の様子](https://user-images.githubusercontent.com/79028771/108568800-144a7780-734e-11eb-9980-4b5b068e7f83.jpg)
