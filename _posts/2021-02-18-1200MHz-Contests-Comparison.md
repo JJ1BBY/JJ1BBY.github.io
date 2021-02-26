@@ -3,6 +3,7 @@ layout: post
 title: "1200MHz コンテストQSO数比較"
 date: 2021-02-18 12:00
 categories: [Contest]
+description: 1200MHz部門があるコンテストを関東で比較してみると、関東UHFがダントツです。
 author: JJ1BBY
 ---
 ## TL;DR
