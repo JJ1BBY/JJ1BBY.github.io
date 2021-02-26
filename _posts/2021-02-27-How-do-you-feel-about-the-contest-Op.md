@@ -11,7 +11,7 @@ author: JJ1BBY
 * カジュアル参加派からみた、ガチコンテストオペに関する[Twitterでのアンケート](https://twitter.com/JJ1BBY/status/1364707168876855298?s=20)
 * 圧倒的大多数はそっけない、効率優先のオペを支持。ガチコンテスターの主張は面目躍如？
 * 一方で、そんなオペでコンテストから疎遠になる局や、もう少し礼を示すべきと考える局も、『一局でも多く』の信念で効率に徹しているガチコンテスターとしては、無視できないほどの数か？
-* ところで、JARL４大大会の昨年平均参加局（提出局）は1670局、アマチュア無線局全体(387,861局)の0.4%でしかない
+* ところで、JARL４大大会の昨年平均参加局（提出局）は1670局([ALLJA](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/all_ja/2020/area.html), [6D](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/6m/2020/area.html), [FD](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/fd/2020/area.html), [ACAG](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/all_cg/2019/area.html))、アマチュア無線局全体([387,774局](https://www.tele.soumu.go.jp/musen/SearchServlet?SK=2&pageID=3&SelectID=1&SelectOW=01)の0.4%でしかない
 * 相手のある競技・環境、他の目的で交信したい局もいるバンド内でコンテスト至上主義が無条件で理解を得られているわけではないのではないでしょうか？
 
 それでは134名の方に投票いただいた、[Twitterでのアンケート](https://twitter.com/JJ1BBY/status/1364707168876855298?s=20)を見てみましょう。
