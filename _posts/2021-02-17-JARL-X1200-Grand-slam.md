@@ -3,6 +3,7 @@ layout: post
 title: "JARL X1200 年間グランドスラム達成局"
 date: 2021-02-17 19:30
 categories: [Contest]
+description: JARL四大大会に年間を通じで勝利するグランドスラムを成し遂げた局を調べました。
 author: JJ1BBY
 ---
 ## TL;DR
