@@ -116,9 +116,9 @@ LCRと結果発表の情報を表にまとめました。ゆるーく、傾向�
       <td style="text-align: left">ACAG</td>
       <td style="text-align: left">2/13/2020</td>
       <td style="text-align: left">木</td>
-      <td style="text-align: left">3/1/2020</td>
+      <td style="text-align: left">2/21/2020</td>
       <td style="text-align: left">金</td>
-      <td style="text-align: left">17</td>
+      <td style="text-align: left">8</td>
     </tr>
         <tr>
       <td style="text-align: left">2019</td>
@@ -152,9 +152,9 @@ LCRと結果発表の情報を表にまとめました。ゆるーく、傾向�
       <td style="text-align: left">ACAG</td>
       <td style="text-align: left">1/7/2019</td>
       <td style="text-align: left">月</td>
-      <td style="text-align: left">2/21/2019</td>
+      <td style="text-align: left">3/2/2019</td>
       <td style="text-align: left">土</td>
-      <td style="text-align: left">8</td>
+      <td style="text-align: left">54</td>
     </tr>
         <tr>
       <td style="text-align: left">2018</td>
