@@ -6,9 +6,8 @@ description: アマチュア無線コンテスト勝つために、無駄を削�
 categories: [Contest]
 author: JJ1BBY
 ---
+![登谷山](https://user-images.githubusercontent.com/79028771/109361827-1b810080-78cd-11eb-9ae9-2e967c3c08d1.jpg)  
 ## TL;DR
-![登谷山](https://user-images.githubusercontent.com/79028771/109361827-1b810080-78cd-11eb-9ae9-2e967c3c08d1.jpg)
-
 * カジュアル参加派からみた、ガチコンテストオペに関する[Twitterでのアンケート](https://twitter.com/JJ1BBY/status/1364707168876855298?s=20)
 * 圧倒的大多数はそっけない、効率優先のオペを支持。ガチコンテスターの主張は面目躍如？
 * 一方で、そんなオペでコンテストから疎遠になる局や、もう少し礼を示すべきと考える局も、『一局でも多く』の信念で効率に徹しているガチコンテスターとしては、無視できないほどの数か？
