@@ -9,9 +9,6 @@ encoding: UTF-8
 gems:
  - jemoji
  - jekyll-sitemap
- - jekyll-feed
-plugins:
-  - jekyll-feed
 google_analytics: UA-189717722-1
 twitter:
   username: JJ1BBY
