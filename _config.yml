@@ -10,8 +10,7 @@ gems:
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
- 
- plugins:
+plugins:
   - jekyll-feed
 google_analytics: UA-189717722-1
 twitter:
