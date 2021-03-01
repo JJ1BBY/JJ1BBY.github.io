@@ -1,3 +1,10 @@
+---
+layout: post
+title: "移動運用 カテゴリ投稿一覧"
+date: 2021-02-10 18:30
+description: 移動運用 カテゴリ投稿一覧
+author: JJ1BBY
+---
 <h3>Portable</h3>
 <ul>
     
