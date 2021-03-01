@@ -8,7 +8,7 @@ author: JJ1BBY
 <h3>Contest</h3>
 <ul>
     
-      <li><a href="/contest/2021/03/01/2021-02-14-5-6G-QRV.html">5.6G QRV装備準備と変更申請</a></li>
+      <li><a href="/contest/2021/03/01/5-6G-QRV.html">5.6G QRV装備準備と変更申請</a></li>
     
       <li><a href="/contest/2021/02/27/How-do-you-feel-about-the-contest-Op.html">カジュアルなコンテスト参加局からみた、ガチコンテスターのオペ</a></li>
     
