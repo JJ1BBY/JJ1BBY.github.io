@@ -32,7 +32,7 @@ author: JJ1BBY
 ![内容物一覧](https://user-images.githubusercontent.com/79028771/109881225-43040e80-7cbb-11eb-9f4d-caef4fa62db0.jpg)
 
 脱落防止のネジを片方外しています。  
-![裏から]](https://user-images.githubusercontent.com/79028771/109881205-3ed7f100-7cbb-11eb-8e96-ee5fd40f0811.jpg)
+![裏から](https://user-images.githubusercontent.com/79028771/109881205-3ed7f100-7cbb-11eb-8e96-ee5fd40f0811.jpg)
 
 トランスバーターを載せるアルミプレートを固定するネジの蝶ナットがやや邪魔ですが、うまくプレートを固定できるところでナットも回せそうです。
 ![横アップ](https://user-images.githubusercontent.com/79028771/109881215-413a4b00-7cbb-11eb-8682-9c9ec9eea7e2.jpg)
