@@ -23,8 +23,8 @@ author: JJ1BBY
 あとはサイクルボトムから上向くことで、さらにアクティブな局が増えていただければと思います。  
 
 2021/3/5 追記
-![参加局数](https://user-images.githubusercontent.com/79028771/110036936-174b5c00-7d81-11eb-86e8-0854e32d2ac9.png)
-参加局（スコア提出局）数を追記しました。ソースは[各コンテスト結果](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm)からです。
+![参加局数](https://user-images.githubusercontent.com/79028771/110037244-7b6e2000-7d81-11eb-8918-7720a0816dee.png)
+参加局（スコア提出局）数を追記しました。ソースは[各コンテスト結果](https://www.jarl.org/Japanese/1_Tanoshimo/1-1_Contest/Contest.htm)からです。  
 
 ---
 
