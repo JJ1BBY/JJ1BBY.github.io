@@ -8,7 +8,7 @@ author: JJ1BBY
 ---
 
 ## TL;DR
-* `^J[A-S]|^[7-8][J-N]`  
+* 正規表現 `^J[A-S]|^[7-8][J-N]`  
 * Microsoft OfficeはOffice Open XML ISO/IEC 29500という国際規格になってます。Excelでは標準でない関数だが、Google DogsではSpreadsheetで=REGEXMATCH()という関数を拡張子、正規表現に一致するか否かを返すことができる。  
 * というわけで、コールサインのデータがあれば、日本の[コールサイン](https://www.itu.int/en/ITU-R/terrestrial/fmd/Pages/call_sign_series.aspx)は =REGEXMATCH(A1,"`^J[A-S]|^[7-8][J-N]`")などで、TRUE or FALSEで判定されます。  
 
