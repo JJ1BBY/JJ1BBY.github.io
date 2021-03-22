@@ -13,6 +13,7 @@ author: JJ1BBY
 * というわけで、コールサインのデータがあれば、日本の[コールサイン](https://www.itu.int/en/ITU-R/terrestrial/fmd/Pages/call_sign_series.aspx)は =REGEXMATCH(A1,"`^J[A-S]|^[7-8][J-N]`")などで、TRUE or FALSEで判定されます。  
 
 とりあえず、LoTWのユニークな局から日本局を探してみる。  
+
 [データ](http://www.hb9bza.net/lotw-users-list)はHB9BZA局が編纂されているものを用いた。最終コールサインとLoTWへの最終アップロード日付が記載されている。  
 149507局中日本の局は6333局、4%ということになる。
 
