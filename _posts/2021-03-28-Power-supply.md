@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "アマチュア無線でのPD電源の活用"
+title: "アマチュア無線でのPPS対応PD電源の活用"
 date: 2021-03-28 09:30
 description: Power Delivery PPS対応電源を使うことで任意の電圧をモバイルバッテリーから生成して運用に利用する
 categories: [Tips]
@@ -12,11 +12,11 @@ author: JJ1BBY
 * 発発の給油口の蓋にパイプを通して、携行缶内の燃料を自動供給するというシステムもヘビーデューティー仕様では必須
 * 1200MHz 1W移動運用だと、13.8V 2Aもあれば十分IC-9700が稼働します。モバイルバッテリーにPDで十分!
 * 9/12/15/20Vを生成するトリガーケーブルを作って運用。
-* [USB Power Delivery](https://www.usb.org/document-library/usb-power-delivery) Programmable power supply (PPS)で任意電圧が取り出せるらしい。
-* 12Vではちょっと低い、15Vではちょっと高い。やっぱり13.8Vがほしい。DCDCかませなくても、ロスなく取り出せるとは!!!
-* 無線機は15V(16V)くらい定格上限だったり明記されているので安心。
+* 無線機は15V(16V)くらい定格上限だったり明記されているのでまぁ安心？
+* でも、12Vではちょっと低い、15Vではちょっと高い。やっぱり13.8Vがほしい。DCDCかませなくても、ロスなく取り出せるとは!!!
 * トランスバーター用電源にPDを使いたいが、15V通すのは気が引ける。
-* でもまだPPS対応機器は限定。人柱な結果に...
+* [USB Power Delivery](https://www.usb.org/document-library/usb-power-delivery) Programmable power supply (PPS)で任意電圧が取り出せるらしい。
+* でもまだPPS対応機器は限定。やや人柱な結果に...   
 
 発発で24時間、HF 50Wでブリブリコンテストに参加するシステムを組んでいましたが、1200MHzに上がってからはめっきりダウンサイジング。  
 
