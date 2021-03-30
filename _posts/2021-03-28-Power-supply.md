@@ -125,8 +125,7 @@ SMARTCOBY20000 60W対応。
 まだAliexpressに登録してない方は、こちらの[紹介コード](https://a.aliexpress.com/_mtFaoNp)を使うと$24 USD相当のクーポンがもらえるそうです。私に紹介料$5 USDクーポンもいただけるそう。よろしかったら、どうぞ。
 
 ---
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=jj1bby-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B08CHK2YCC&linkId=ad107aea60e00a0c2af455b35234016a&bc1=ffffff&amp;lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B08CHK2YCC/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08CHK2YCC&linkCode=as2&tag=jj1bby-22&linkId=8f94eab0242e37ae1044d9daf273a880"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B08CHK2YCC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=jj1bby-22" ></a>
 ---
 
 <script src="https://utteranc.es/client.js"
