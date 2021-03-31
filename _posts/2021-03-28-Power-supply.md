@@ -125,7 +125,8 @@ SMARTCOBY20000 60W対応。
 まだAliexpressに登録してない方は、こちらの[紹介コード](https://a.aliexpress.com/_mtFaoNp)を使うと$24 USD相当のクーポンがもらえるそうです。私に紹介料$5 USDクーポンもいただけるそう。よろしかったら、どうぞ。
 
 
-
+---
+[CIO SMARTCOBY 20000](https://www.amazon.co.jp/gp/product/B08CHK2YCC/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08CHK2YCC&linkCode=as2&tag=jj1bby-22&linkId=eb5a9f7f2074fe40e5e08747d0c334d3)
 ---
 
 
