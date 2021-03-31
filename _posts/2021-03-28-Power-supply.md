@@ -125,7 +125,7 @@ SMARTCOBY20000 60W対応。
 まだAliexpressに登録してない方は、こちらの[紹介コード](https://a.aliexpress.com/_mtFaoNp)を使うと$24 USD相当のクーポンがもらえるそうです。私に紹介料$5 USDクーポンもいただけるそう。よろしかったら、どうぞ。
 
 ---
-<a target="_blank"  href="https://www.amazon.co.jp/gp/product/B08CHK2YCC/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B08CHK2YCC&linkCode=as2&tag=jj1bby-22&linkId=8f94eab0242e37ae1044d9daf273a880"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B08CHK2YCC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=jj1bby-22" ></a>
+https://www.amazon.co.jp/SMARTCOBY-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-20000mAh-iPhone12-iPhone11/dp/B08CHK2YCC?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=smartcoby20000&qid=1617154686&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFHUjBRNlZJUEdDVVgmZW5jcnlwdGVkSWQ9QTAyMzEwNjYyQTRCRjZUSkxYUEhRJmVuY3J5cHRlZEFkSWQ9QTFBRjlDVlFFVlVBN1gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=ll1&tag=jj1bby-22&linkId=ab7868ad35aa428726efb3b5f233e213&language=ja_JP&ref_=as_li_ss_tl
 ---
 
 <script src="https://utteranc.es/client.js"
