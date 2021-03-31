@@ -88,10 +88,10 @@ USB A - USB Cのドングル（電圧設定時にPCに接続して利用）とTy
 別の機器につなぐと5Vしかでない安全設計。  
 
 設定ソフトのダウンロードは怪しさ満載な以下サイトから自己責任で。
-Firmwareダウンロード（本家）
-http://www.witrn.com/witrn/upd/PDC002_software.rar
-Firmwareダウンロード（コピー）
-https://www.amazon.co.jp/clouddrive/share/fbZQyaMTDO3hx8Ir1vFUtjWiucwZW7PzgpfM3IqHsTV
+Firmwareダウンロード（本家）  
+http://www.witrn.com/witrn/upd/PDC002_software.rar  
+Firmwareダウンロード（コピー）  
+https://www.amazon.co.jp/clouddrive/share/fbZQyaMTDO3hx8Ir1vFUtjWiucwZW7PzgpfM3IqHsTV  
 
 
 ### PD PPS対応モバイルバッテリー
