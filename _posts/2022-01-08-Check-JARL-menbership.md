@@ -13,7 +13,7 @@ author: JJ1BBY
 
 ## ソースコード
 '''
-[qslcheck.py](https://jj1bby.com/_posts/qslcheck.py)
+[qslcheck.py](https://jj1bby.com/qslcheck.py)
 '''
 
 ```python
