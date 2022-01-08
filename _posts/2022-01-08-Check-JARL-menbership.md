@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title: "JARL会員情報検索を自動化"
@@ -99,14 +98,10 @@ df_list.to_csv(
         encoding="utf_8_sig"
 )
 
-
----
-
 <script src="https://utteranc.es/client.js"
         repo="JJ1BBY/JJ1BBY.github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
         async>
->>>>>>> 58a0126c3f86ea2c17c1b9d53a76bcd79073bb27
 </script>
