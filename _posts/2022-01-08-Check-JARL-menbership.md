@@ -12,7 +12,7 @@ author: JJ1BBY
 * 存在しうるコールサインか確認した列など、いくつか追加しているので、不要なら削除してください。
 
 ## ソースコード
-[qslcheck.py](https://github.com/JJ1BBY/JJ1BBY.github.io/blob/b0b5374f871d9b332880fc6dcc421853d5d2eeba/_posts/qslcheck.py)
+[qslcheck.py](https://jj1bby.com/_posts/qslcheck.py)
 
 ```python
 import pathlib
