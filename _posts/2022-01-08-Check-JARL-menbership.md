@@ -73,16 +73,15 @@ for m in CallSign:
     btnSearch.click()
     td = browser.find_element(by=By.ID, value = "ListView1_lblResult_0")
     jarl_res.append(td.text)
-    # 総務省の返値にCSが含まれているTrueの数を数える
-    print (m, "is", td.text)
+    #print (m, "is", td.text)
 df_isJARL = pd.DataFrame(jarl_res, columns = ['isJARL'])
-print(df_isJARL)
+#print(df_isJARL)
 browser.quit()
 
 #マスターリストにJARL会員情報を格納してdfを結合
 df_list = df_list.reset_index()
 df_list = pd.concat([df_list, df_isJARL], axis=1)
-print(df_list)
+#print(df_list)
 
 #QSLの値をJARL会員情報の検索結果から書き換える
 #QSL J yes, N no qsl, S SASE - non jarl 自分の使っている記号に合わせて下さい。
