@@ -11,7 +11,7 @@ author: JJ1BBY
 * HamlogからExcel->CSVと出力したファイルを読み込み、コールサインを取得して検索し、QSL欄に書き戻す
 * 存在しうるコールサインか確認した列など、いくつか追加しているので、不要なら削除してください。
 ## ソースコード
-(qslcheck.py)[_posts/qslcheck.py]
+[qslcheck.py](_posts/qslcheck.py)
 
 ```python
 import pathlib
