@@ -11,6 +11,7 @@ author: JJ1BBY
 * HamlogからExcel->CSVと出力したファイルを読み込み、コールサインを取得して検索し、QSL欄に書き戻す
 * 存在しうるコールサインか確認した列など、いくつか追加しているので、不要なら削除してください。
 ## ソースコード
+```python
 import pathlib
 
 #https://chromedriver.chromium.org/getting-started をダウンロードし、chromedriver.exe をソースコードのディレクトリに配置
@@ -105,3 +106,4 @@ df_list.to_csv(
         crossorigin="anonymous"
         async>
 </script>
+```
