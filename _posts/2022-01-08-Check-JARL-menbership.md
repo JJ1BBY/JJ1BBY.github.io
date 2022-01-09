@@ -46,7 +46,6 @@ df_cs.columns = ['CS_only', 'Portable']
 df_cs['fCS'] = df_cs['CS_only'].str.match('^J[AE-S][0-9][A-Z]{3}|J[AR][0-9][A-Z]{2}|JD1[A-Z]{3}|7[J-N][0-9][A-Z]{3}|8[J-N][0-9][0-9A-Z]+$')
 # df_listに元のdf_codeとdf_csを結合
 df_list = pd.concat([df_code, df_cs], axis='columns') 
-#df_list = df_code
 
 #Debug Data check
 #print('dataframeの行数・列数の確認==>\n', df_code.shape)
@@ -58,7 +57,6 @@ df_list = pd.concat([df_code, df_cs], axis='columns')
 CallSign = list(df_list['CS_only'])
 
 #JARL会員検索
-#chromedriverを
 s = Service ('chromedriver')
 browser = webdriver.Chrome(service=s)
 browser.get(JARL)
@@ -66,7 +64,6 @@ browser.maximize_window()
 
 jarl_res = []
 for m in CallSign:
-    #index = index + 1
     txtCallSign = browser.find_element(by=By.ID, value = "txtCallSign")
     txtCallSign.send_keys(m)
     btnSearch = browser.find_element(by=By.ID, value = "btnSearch")
