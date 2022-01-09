@@ -2,7 +2,7 @@
 layout: post
 title: "JARL会員情報検索を自動化"
 date: 2022-01-08 13:05
-description: JARL会員情報検索をPythonで自動化し、QSLカード差出コールサインが転送されるか確認できるようにしてみた。
+description: JARL会員情報検索をPythonで自動化し、QSLカード差出コールサインが転送されるか確認できるようにしてみた。HamlogからExcelに出力し、ExcelからCSVにしたデータを使っています。
 categories: [Tips]
 author: JJ1BBY
 ---
