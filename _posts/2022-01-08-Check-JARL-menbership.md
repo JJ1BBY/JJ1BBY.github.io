@@ -7,7 +7,7 @@ categories: [Tips]
 author: JJ1BBY
 ---
 ## TL;DR
-* ython, selenium, pandasを利用。
+* python, selenium, pandasを利用。
 * HamlogからExcel->CSVと出力したファイルを読み込み、コールサインを取得して検索し、QSL欄に書き戻す
 * 存在しうるコールサインか確認した列など、いくつか追加しているので、不要なら削除してください。
 
