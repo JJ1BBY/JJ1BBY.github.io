@@ -3,8 +3,10 @@ layout: post
 title: "ctestwinのログファイル変換"
 date: 2022-02-05 15:00
 categories: [Contest]
+description: ctestwinのコンテストログファイルをcsvファイルに変換するpythonのスクリプトです
 author: JJ1BBY
 ---
+
 ## TL;DR
 * ctestwinのログファイルをcsvファイルに変換するpythonのスクリプトです。
 * 見当たらなかったので、作ってみました。
@@ -20,9 +22,9 @@ author: JJ1BBY
 python lg82csv logfile.lg8
 出力は logfile.csv になります。
 </code>
+
 ---
 
-   
 <script src="https://utteranc.es/client.js"
         repo="JJ1BBY/JJ1BBY.github.io"
         issue-term="pathname"
