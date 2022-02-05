@@ -13,7 +13,7 @@ author: JJ1BBY
 * 雑な実装ですのでお手柔らかに
 
 探してみましたが、落ちてなかったので作ってみたシリーズ
-![ソースコード](https://github.com/JJ1BBY/lg82csv/blob/main/lg82csv.py)
+[ソースコード](https://github.com/JJ1BBY/lg82csv/blob/main/lg82csv.py)
 バイナリファイルを操作するのは初めてなので、色々と至らないところがあるかと思いますが。
 とりあえず、動いているみたいなので...
 
