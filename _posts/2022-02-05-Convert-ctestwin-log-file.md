@@ -31,5 +31,4 @@ python lg82csv logfile.lg8
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
-        async>
 </script>
