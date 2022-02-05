@@ -8,27 +8,28 @@ author: JJ1BBY
 ---
 
 ## TL;DR
-* ctestwinのログファイルをcsvファイルに変換するpythonのスクリプトです。
-* 見当たらなかったので、作ってみました。
-* 雑な実装ですのでお手柔らかに
+* ctestwinのログファイルをcsvファイルに変換するpythonのスクリプトです。  
+* 見当たらなかったので、作ってみました。  
+* 雑な実装ですのでお手柔らかに  
+* 久々にGithub Pagesでblog更新しようとしたらできず、GithubのメニューでSecurityを設定すると行けるみたい。  
 
-探してみましたが、落ちてなかったので作ってみたシリーズ
-[ソースコード](https://github.com/JJ1BBY/lg82csv/blob/main/lg82csv.py)
-バイナリファイルを操作するのは初めてなので、色々と至らないところがあるかと思いますが。
-とりあえず、動いているみたいなので...
+探してみましたが、落ちてなかったので作ってみたシリーズ  
+[ソースコード](https://github.com/JJ1BBY/lg82csv/blob/main/lg82csv.py)  
+バイナリファイルを操作するのは初めてなので、色々と至らないところがあるかと思いますが。  
+とりあえず、動いているみたいなので...  
 
-##使い方
+##使い方  
 <code>
-python lg82csv logfile.lg8
-出力は logfile.csv になります。
+python lg82csv logfile.lg8  
+出力は logfile.csv になります。  
 </code>
 
 ---
 
-'''
 <script src="https://utteranc.es/client.js"
         repo="JJ1BBY/JJ1BBY.github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
+        async>
 </script>
