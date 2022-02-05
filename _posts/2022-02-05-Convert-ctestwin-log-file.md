@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ctestwinのログファイル変換"
-date: 2022-02-05 17:00
+date: 2022-02-01 11:30:00 +0900
 categories: [Contest]
 description: ctestwinのコンテストログファイルをcsvファイルに変換するpythonのスクリプトです
 author: JJ1BBY
